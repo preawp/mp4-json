@@ -4,64 +4,35 @@
     "listId": 1,
     "title": "Washing pods",
     "quantity": 1,
-    "price": 6.99,
-    "brand": "EcoClean",
-    "purpose": "Laundry",
-    "scent": "Rose",
-    "packSize": "30 pods",
-    "environmentFriendly": true,
-    "category": "Household"
+    "price": 6.99
   },
   {
     "id": 2,
     "listId": 1,
-    "title": "Foundation",
+    "title": "Rice",
     "quantity": 1,
-    "price": 29.99,
-    "brand": "Flawless",
-    "purpose": "Makeup",
-    "shade": "Natural Beige",
-    "type": "Liquid",
-    "skinType": "All skin types",
-    "category": "Beauty"
+    "price": 0.99
   },
   {
     "id": 3,
     "listId": 1,
-    "title": "Yoga Mat",
-    "quantity": 1,
-    "price": 19.99,
-    "brand": "ZenLife",
-    "purpose": "Exercise",
-    "color": "Purple",
-    "material": "Eco-friendly rubber",
-    "thickness": "5mm",
-    "category": "Fitness"
+    "title": "Shampoo",
+    "quantity": 2,
+    "price": 5.49
   },
   {
     "id": 4,
     "listId": 1,
-    "title": "Perfume",
+    "title": "Toothpaste",
     "quantity": 1,
-    "price": 49.99,
-    "brand": "Scentual",
-    "purpose": "Fragrance",
-    "scent": "Vanilla Bloom",
-    "volume": "50ml",
-    "type": "Eau de Parfum",
-    "category": "Beauty"
+    "price": 3.99
   },
   {
     "id": 5,
     "listId": 1,
-    "title": "Handbag",
+    "title": "Facial cream",
     "quantity": 1,
-    "price": 59.99,
-    "brand": "Fashionista",
-    "purpose": "Accessory",
-    "color": "Black",
-    "material": "Leather",
-    "size": "Medium",
-    "category": "Fashion"
+    "price": 15.99
   }
 ]
+
