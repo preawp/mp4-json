@@ -2,35 +2,35 @@
   {
     "id": 1,
     "listId": 1,
-    "title": "Washing pods",
+    "title": "Strawberries",
     "quantity": 1,
     "price": 6.99
   },
   {
     "id": 2,
     "listId": 1,
-    "title": "Rice",
+    "title": "Smoked Salmon",
     "quantity": 1,
     "price": 0.99
   },
   {
     "id": 3,
     "listId": 1,
-    "title": "Shampoo",
+    "title": "Lowfat Milk",
     "quantity": 2,
     "price": 5.49
   },
   {
     "id": 4,
     "listId": 1,
-    "title": "Toothpaste",
+    "title": "Pork Belly",
     "quantity": 1,
     "price": 3.99
   },
   {
     "id": 5,
     "listId": 1,
-    "title": "Facial cream",
+    "title": "Whole Wheat Bagels",
     "quantity": 1,
     "price": 15.99
   }
