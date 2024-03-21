@@ -39,11 +39,23 @@
    "lists": [
     {
       "id": 1,
-      "title": "Weekly groceries"
+      "title": "Weekly Groceries"
     },
     {
       "id": 2,
-      "title": "Room decoration"
+      "title": "Room Decoration"
+    }
+    {
+      "id": 3,
+      "title": "Health Supplements"
+    }
+    {
+      "id": 4,
+      "title": "Beauty and Clothing"
+    }
+      {
+      "id": 2,
+      "title": "Friends's Birthday"
     }
   ]
   
