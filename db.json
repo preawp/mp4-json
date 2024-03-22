@@ -5,7 +5,7 @@
     "listId": 1,
     "title": "Strawberries",
     "quantity": 1,
-    "price": 6.99,
+    "price": 4.99,
     "brand": "Driscoll's"
   },
   {
@@ -13,7 +13,7 @@
     "listId": 1,
     "title": "Smoked Salmon",
     "quantity": 1,
-    "price": 0.99,
+    "price": 14.79,
     "brand": "Latitude"
   },
   {
@@ -29,7 +29,7 @@
     "listId": 2,
     "title": "Tapestry",
     "quantity": 1,
-    "price": 3.99,
+    "price": 18.79,
     "brand": "Amazon"
   },
   {
@@ -37,8 +37,16 @@
     "listId": 1,
     "title": "Whole Wheat Bagels",
     "quantity": 1,
-    "price": 15.99,
+    "price": 5.99,
     "brand": "Thomas"
+  },
+    {
+    "id": 6,
+    "listId": 3,
+    "title": "Vitamin C",
+    "quantity": 2,
+    "price": 15.99,
+    "brand": "Nature Made"
   }
 ],
    "lists": [
