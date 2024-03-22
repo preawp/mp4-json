@@ -8,7 +8,7 @@
     "price": 4.99,
     "brand": "Driscoll's",
     "place": "Star Market",
-    "Note": "can buy oranges instead"
+    "note": "can buy oranges instead"
   },
   {
     "id": 2,
@@ -18,7 +18,7 @@
     "price": 14.79,
     "brand": "Latitude",
     "place": "Weee!",
-    "Note": "buy it within next week"
+    "note": "buy it within next week"
   },
   {
     "id": 3,
@@ -28,7 +28,7 @@
     "price": 5.49,
     "brand": "Hood",
     "place": "Star Market",
-    "Note": "lowfat only"
+    "note": "lowfat only"
   },
   {
     "id": 4,
@@ -38,7 +38,7 @@
     "price": 18.79,
     "brand": "Amazon",
     "place": "Amazon",
-    "Note": "buy the pink one"
+    "note": "buy the pink one"
   },
   {
     "id": 5,
@@ -48,7 +48,7 @@
     "price": 5.99,
     "brand": "Thomas",
     "place": "Star Market",
-    "Note": "buy the onion flavor"
+    "note": "buy the onion flavor"
   },
     {
     "id": 6,
@@ -58,7 +58,7 @@
     "price": 15.99,
     "brand": "Nature Made",
     "place": "Amazon",
-     "Note": "buy the mixberry flavor"
+     "note": "buy the mixberry flavor"
   }
 ],
    "lists": [
