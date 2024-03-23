@@ -59,6 +59,46 @@
     "brand": "Nature Made",
     "place": "Amazon",
      "note": "buy the mixberry flavor"
+  },
+     {
+    "id": 7,
+    "listId": 4,
+    "title": "Lipstick",
+    "quantity": 1,
+    "price": 11.45,
+    "brand": "Maybelline",
+    "place": "Target",
+     "note": "nude color"
+  },
+    {
+    "id": 8,
+    "listId": 4,
+    "title": "Jeans",
+    "quantity": 1,
+    "price": 23.99,
+    "brand": "H&M",
+    "place": "H&M Shop",
+     "note": "medium wash, high-rise, straight legs"
+  },
+    {
+    "id": 9,
+    "listId": 5,
+    "title": "Chocolate cake",
+    "quantity": 1,
+    "price": 15.99,
+    "brand": "Star Market",
+    "place": "Star Market",
+     "note": "buy it on 03/27/24"
+  },
+    {
+    "id": 10,
+    "listId": 2,
+    "title": "Artificial flowers",
+    "quantity": 3,
+    "price": 8.79,
+    "brand": "-",
+    "place": "Dollar Tree",
+     "note": "roses, lilies, pink tone"
   }
 ],
    "lists": [
